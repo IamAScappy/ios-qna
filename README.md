@@ -1,12 +1,11 @@
 # iOS Q&A
 
-질문이 있으면 `Issues` 에 올려주세요.
+## 질문하기
 
-답변은 하실때는 `Pull reqeusts` 를 이용해주세요.
+Issue 에 질문을 올려주세요.
 
-## 주제별 질답 파일
+## 답변하기
 
-답변은 주제별로 md 파일로 남겨주세요.
+작성된 Issue 에 댓글로 답변을 남겨주세요.
 
-ex) swift.md, RxSwift.md, UIKit.md, Foundation.md 등
-
+`close` 되면 mardown 파일로 정리하여 PR 올리겠습니다.
